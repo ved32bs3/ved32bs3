@@ -30,10 +30,6 @@ Git, GitHub, VS Code, ThunderClient, Jupyter Notebook
 - Python for Data Science
 - System Design fundamentals
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ved32bs3&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ved32bs3&layout=compact)
-
 ## 📫 Connect
 
 - Email: vedprajapati008@gmail.com
